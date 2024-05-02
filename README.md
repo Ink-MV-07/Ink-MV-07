@@ -16,4 +16,4 @@ Meu nome por aqui é Ink!
 -Meditar
 -Animes e séries
 
-![](https://media1.tenor.com/m/-ngWvq_VqfQAAAAC/fma-fullmetal-alchemist.gif)
+![](https://media1.tenor.com/m/lxpfB01kWpcAAAAC/bromance-sig-curtis.gif)
