@@ -10,10 +10,10 @@ Meu nome por aqui é Ink!
 
 ### Gosto de:
 
--Aves e animais em geral
--Desenho
--Música
--Meditar
--Animes e séries
+-Aves e animais em geral |
+-Desenho |
+-Música |
+-Meditar |
+-Animes e séries 
 
 ![](https://media1.tenor.com/m/lxpfB01kWpcAAAAC/bromance-sig-curtis.gif)
