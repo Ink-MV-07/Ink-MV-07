@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil! 🚀⭐
 
-Meu nome é Otavio, mas podem me chamar de Ink!
+Meu nome é Otavio!
 
 | Estou estudando na [Alura](https://.alura.com.br) | Assim, estou aprendendo sobre a linguagem JavaScript | Esse meu espaço aqui é pra organização e compartilhamento dos meus projetos!
 
@@ -8,6 +8,6 @@ Meu nome é Otavio, mas podem me chamar de Ink!
 
 ### Gosto de:
 
-| Aves e animais em geral | Meditar | Música | Tocar guitarra | Animes e séries |  
+| Aves e animais em geral | Meditar | Cosmos e Universo | Música | Tocar guitarra | Animes e séries |  
 
 ![](https://media1.tenor.com/m/lxpfB01kWpcAAAAC/bromance-sig-curtis.gif)
