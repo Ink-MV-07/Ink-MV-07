@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil! 🚀⭐
 
-Meu nome é Otavio!
+Meu nome é Otavio, mas podem me chamar de Ink!
 
 -Estou estudando na [Alura](https://.alura.com.br)
 -Assim, estou aprendendo sobre a linguagem JavaScript
